@@ -1,4 +1,4 @@
 # sensorydata_modelling
-Paper exploring a sensory driven dataset via using a multitude of basic ML algorithms.
+Paper exploring sensory data via using a multitude of classification algorithms (LR, DT, SVM, GNB).
 
 Data: https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities
